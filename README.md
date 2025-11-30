@@ -26,11 +26,11 @@ python face_detection.py
 ## Installation
 ```bash
 pip install opencv-python
-
+```
 
 GitHub Folder Structure
 
-```
+
 opencv-face-detection/
 
 │── face_detection.py
