@@ -8,7 +8,7 @@ A simple Python project that uses OpenCV to detect faces in real-time using your
 
 Built a real-time face detection app using Haar-Cascade classifiers.
 
-Demonstrates classical computer vision techniques: grayscale conversion, feature extraction, and sliding windows.
+Demonstrates classical computer vision techniques like grayscale conversion, feature extraction, and sliding windows.
 
 Shows understanding of image processing and bounding box detection.
 
