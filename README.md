@@ -22,6 +22,14 @@ How to Run
 python face_detection.py
 
 ```
+Installation Instructions
+
+# Create virtual environment
+```
+python -m venv venv
+venv\Scripts\activate
+```
+
 
 ## Installation
 ```bash
